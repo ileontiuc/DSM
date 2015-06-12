@@ -1,0 +1,2 @@
+# DSM
+The Dependency Structure Matrix is one of the better ways for software visualization, used in architectural software analysis. This one year project is currently highlighting ownership of software entities in object oriented software. It represents all dependencies among all parts of the system in a customized zooming interface. It also highlights dependencies that should not exist, based on the subsystems instability factor and harmful usage such as dependency cycles. As an input format it uses the FAMIX metamodel.

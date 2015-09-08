@@ -1,0 +1,8 @@
+To implement
+-culoarea de la text din meniul de configurare sa fie ca si celulele colorate/ sau radio buttonu sa fie de culoarea aia ;)
+Idei licenta
+
+- refactorizare cod la renderer
+- facut vertical sa se faca celula cat textul
+
+- daca sunt mai multe criterii selectate si se ajunge la mai mult de 9 culori (maximul retinut de short term memory) sa ramana highligh cu o culoare complet noua doar acele relatii ce au toate criteriile respective indeplinite (f probabil ca problemele vor fi la acelasi relatii??). se pastreaza ideea dar nu se ingreuneaza schema
